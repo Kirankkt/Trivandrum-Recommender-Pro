@@ -1,0 +1,10 @@
+gradio
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+geopy
+folium
+openpyxl
+google-generativeai
