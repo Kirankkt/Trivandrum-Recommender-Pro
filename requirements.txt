@@ -8,3 +8,4 @@ geopy
 folium
 openpyxl
 google-generativeai
+plotly
